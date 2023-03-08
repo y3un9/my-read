@@ -1,13 +1,13 @@
 # my-read
 
-|                       📚 Title                        |     ‍ Author      |      Type       | Topic | 🗓 Date | Rating | Review |
-|:-----------------------------------------------------:|:-----------------:|:---------------:|:-----:|:-------:|:------:|:------:|
-|                       围炉夜话                        |    [王永彬][]     | [non-fiction][] |   -   | 2022-09 |   -    |   -    |
-|                         棋王                          |     [阿城][]      |   [fiction][]   |   -   |  2022   |   -    |   -    |
-| Hackers and Painters: Big Ideas from the Computer Age |  [Paul Graham][]  | [non-fiction][] |   -   |    -    |   -    |   -    |
-|                         1984                          | [George Orwell][] |   [fiction][]   |   -   |    -    |   -    |   -    |
-|                       前方的路                        |    [阮一峰][]     | [non-fiction][] |   -   |    -    |   -    |   -    |
-|                   未来世界的幸存者                    |    [阮一峰][]     | [non-fiction][] |   -   |    -    |   -    |   -    |
+|                         📚 Title                          |     ‍ Author      |      Type       | Topic | 🗓 Date | Rating | Review |
+|:---------------------------------------------------------:|:-----------------:|:---------------:|:-----:|:-------:|:------:|:------:|
+|                         围炉夜话                          |    [王永彬][]     | [non-fiction][] |   -   | 2022-09 |   -    |   -    |
+|                         [棋王][]                          |     [阿城][]      |   [fiction][]   |   -   |  2022   |   -    |   -    |
+| [Hackers and Painters: Big Ideas from the Computer Age][] |  [Paul Graham][]  | [non-fiction][] |   -   |    -    |   -    |   -    |
+|                         [1984][]                          | [George Orwell][] |   [fiction][]   |   -   |    -    |   -    |   -    |
+|                       [前方的路][]                        |    [阮一峰][]     | [non-fiction][] |   -   |    -    |   -    |   -    |
+|                   [未来世界的幸存者][]                    |    [阮一峰][]     | [non-fiction][] |   -   |    -    |   -    |   -    |
 
 <!-- Type -->
 [fiction]: ./books/fiction/
@@ -25,7 +25,7 @@
 [阮一峰]: https://www.ruanyifeng.com/
 
 <!-- ebook -->
-[围炉夜话]: 
+<!-- [围炉夜话]:  -->
 [棋王]: https://book.douban.com/subject/30330181/
 [Hackers and Painters: Big Ideas from the Computer Age]: http://www.paulgraham.com/hackpaint.html
 [1984]: https://book.douban.com/subject/3815131/

@@ -1,13 +1,13 @@
 # my-read
 
-|                         📚 Title                          |     ‍ Author      |      Type       | Topic | 🗓 Date | Rating | Review |
-|:---------------------------------------------------------:|:-----------------:|:---------------:|:-----:|:-------:|:------:|:------:|
-|                         围炉夜话                          |    [王永彬][]     | [non-fiction][] |   -   | 2022-09 |   -    |   -    |
-|                         [棋王][]                          |     [阿城][]      |   [fiction][]   |   -   |  2022   |   -    |   -    |
-| [Hackers and Painters: Big Ideas from the Computer Age][] |  [Paul Graham][]  | [non-fiction][] |   -   |    -    |   -    |   -    |
-|                         [1984][]                          | [George Orwell][] |   [fiction][]   |   -   |    -    |   -    |   -    |
-|                       [前方的路][]                        |    [阮一峰][]     | [non-fiction][] |   -   |    -    |   -    |   -    |
-|                   [未来世界的幸存者][]                    |    [阮一峰][]     | [non-fiction][] |   -   |    -    |   -    |   -    |
+|                         📚 Title                          |     ‍ Author      |      Type       | Topic |  🗓 Date   | Rating |       Review       |
+|:---------------------------------------------------------:|:-----------------:|:---------------:|:-----:|:----------:|:------:|:------------------:|
+|                         围炉夜话                          |    [王永彬][]     | [non-fiction][] |   -   |  2022-09   |   -    | [围炉夜话review][] |
+|                         [棋王][]                          |     [阿城][]      |   [fiction][]   |   -   |    2022    |   -    |         -          |
+| [Hackers and Painters: Big Ideas from the Computer Age][] |  [Paul Graham][]  | [non-fiction][] |   -   |    2022    |   -    |         -          |
+|                         [1984][]                          | [George Orwell][] |   [fiction][]   |   -   |    2021    |   -    |   [1984review][]   |
+|                       [前方的路][]                        |    [阮一峰][]     | [non-fiction][] |   -   | 2021-01-06 |   -    |         -          |
+|                   [未来世界的幸存者][]                    |    [阮一峰][]     | [non-fiction][] |   -   |    2020    |   -    |         -          |
 
 <!-- Type -->
 [fiction]: ./books/fiction/
@@ -29,5 +29,9 @@
 [棋王]: https://book.douban.com/subject/30330181/
 [Hackers and Painters: Big Ideas from the Computer Age]: http://www.paulgraham.com/hackpaint.html
 [1984]: https://book.douban.com/subject/3815131/
-[未来世界的幸存者]: https://www.ruanyifeng.com/survivor/
-[前方的路]: https://www.ruanyifeng.com/road/
+[未来世界的幸存者]: https://github.com/ruanyf/survivor
+[前方的路]: https://github.com/ruanyf/road
+
+<!-- Review -->
+[围炉夜话review]: ./reviews/2022/202209-围炉夜话.md
+[1984review]: ./reviews/2021/2021-1984.md
